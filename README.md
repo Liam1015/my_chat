@@ -1,2 +1,2 @@
-# distill_cls
-蒸馏分类模型
+# chitchat
+闲聊模型
